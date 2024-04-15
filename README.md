@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nancy Sharma</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img src="[img_girl.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpayalthummar&psig=AOvVaw2yL_ca8IwIWxSjFO9Nz84i&ust=1713262057527000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjx09X8w4UDFQAAAAAdAAAAABAE)" alt="coding">
+<img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpayalthummar&psig=AOvVaw2yL_ca8IwIWxSjFO9Nz84i&ust=1713262057527000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjx09X8w4UDFQAAAAAdAAAAABAE)" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nancy2707&label=Profile%20views&color=0e75b6&style=flat" alt="nancy2707" /> </p>
 
